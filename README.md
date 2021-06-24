@@ -8,3 +8,5 @@ A project on the data visualizations of video game sales data. Along with the vi
 
 * The report pdf contains the questions and answers learnt from the plots ----> [REPORT](https://github.com/Dharineesh-Karthikeyan/Video-game-sales-Visualization/blob/main/Report.pdf)
 
+* The dataset used in this project is taken from kaggle ----> [LINK](https://www.kaggle.com/gregorut/videogamesales)
+
