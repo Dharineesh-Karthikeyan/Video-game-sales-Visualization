@@ -5,5 +5,6 @@ A project on the data visualizations of video game sales data. Along with the vi
 
 ## Contents:
 *The ipynb notebook contains the codes for the plots [IPYNB](https://github.com/Dharineesh-Karthikeyan/Video-game-sales-Visualization/blob/main/Case_Study.ipynb)
+
 *The report pdf contains the questions and answers learnt from the plots [REPORT](https://github.com/Dharineesh-Karthikeyan/Video-game-sales-Visualization/blob/main/Report.pdf)
 
